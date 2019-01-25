@@ -1,1 +1,3 @@
-# ros_engineering
+# ROS Engineering
+
+Repo for Robotic Operating System (ROS) Engineering projects
